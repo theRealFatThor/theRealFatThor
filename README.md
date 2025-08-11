@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theRealFatThor
+- 👋 Hi, I’m Sam Miranda Jr
 - 👀 I’m interested in finding connections
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything in the Machine Learning and AI space
